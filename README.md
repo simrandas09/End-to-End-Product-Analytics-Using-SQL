@@ -72,17 +72,6 @@ I enjoy building analytical and deployable solutions that support smarter decisi
 📈 Enables early risk assessment through probability-based predictions.
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
