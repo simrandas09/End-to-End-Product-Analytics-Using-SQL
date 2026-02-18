@@ -1,91 +1,89 @@
-# 📊 Product Analytics SQL Project
+<h1 align="center">Hi 👋, I'm Simran Das</h1>
+<h3 align="center">🚀 Business • Product • Data | Founder’s Office @HireZapp | B2B SaaS</h3>
 
-## 📌 Project Overview
-This project performs end-to-end product analytics using the Google Analytics Public Dataset in BigQuery.
-
-The goal was to analyze user behavior across the product lifecycle and generate business insights related to:
-
-- User Conversion Funnel
-- Traffic Source Performance
-- Device-Based Conversion
-- Cohort Retention
-- Customer Lifetime Value (LTV)
-- Churn Analysis
-- A/B Testing Simulation
+<p align="center">
+  <a href="https://linkedin.com/in/simran-das09">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://simrandev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
+  </a>
+</p>
 
 ---
 
-## 🛠 Tools Used
-- Google BigQuery
-- SQL
-- Google Analytics Public Dataset
-- GitHub
+## 🧠 About Me
+
+🎓 Final-year B.Tech CSE student working at the intersection of **Business Strategy, Product Planning, and Data Analytics** in a fast-paced **B2B SaaS startup**.
+
+🚀 Currently part of the **Founder’s Office at HireZapp**, where I contribute to:
+- 📦 Product Planning & Feature Development  
+- 📊 KPI Tracking & Performance Monitoring  
+- 📝 PRD Creation  
+- 🤝 Stakeholder Requirement Analysis  
+- 📈 Data-informed Decision Making  
+- 📬 Community Engagement via Email Automation  
+
+I enjoy building analytical and deployable solutions that support smarter decision-making, improve operational workflows, and enable scalable execution for SaaS platforms.
 
 ---
 
-## 📂 Dataset Used
-Google Analytics Sample Dataset:
-bigquery-public-data.google_analytics_sample.ga_sessions_*
+## ⚙️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+
+### 🤖 ML & MLOps
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+
+### 🚀 Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
-## 📊 Analysis Performed
+## 🚀 Featured Work
 
-### 1. Funnel Analysis
-Tracked user journey:
-Visit → Product View → Add to Cart → Purchase
-
----
-
-### 2. Traffic Source Analysis
-Identified marketing channels with highest:
-- Conversion Rate
-- Revenue
+### 📉 Telecom Customer Churn Prediction API
+📈 Designed to support proactive retention strategies through probability-based churn scoring.
 
 ---
 
-### 3. Device-Based Conversion
-Compared conversion across:
-- Mobile
-- Desktop
-- Tablet
+### 📊 Product Analytics SQL Project
+📈 Generated insights on user acquisition, conversion trends, revenue concentration, and behavioral drop-offs to support product decision-making.
+🛠 Tools Used: Google BigQuery, SQL  
+
+---
+### 📈 Stock Price Forecasting Using Hybrid Deep Learning Models 
+📈 Supports trend forecasting and financial decision analysis.
+---
+
+### 🧬 Cervical Cancer Risk Prediction API 
+📈 Enables early risk assessment through probability-based predictions.
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-### 4. Cohort Retention Analysis
-Tracked user retention based on first visit month.
+## 📫 Connect With Me
 
----
-
-### 5. Customer Lifetime Value (LTV)
-Segmented users into revenue percentiles using NTILE().
-
----
-
-### 6. Churn Analysis
-Identified users who did not return within 7 days.
-
----
-
-### 7. A/B Testing
-Compared conversion between Mobile and Desktop users.
-
----
-
-## 📈 Key Insights
-- Identified drop-offs in conversion funnel
-- Organic traffic had highest user acquisition
-- Desktop users showed higher conversion rate
-- Top 10% users generated majority of revenue
-
----
-
-## 📌 SQL Concepts Used
-- CTEs
-- Window Functions
-- CASE WHEN
-- UNNEST
-- LEAD / LAG
-- NTILE
-- Aggregations
-- Date Functions
+📌 LinkedIn: https://linkedin.com/in/simran-das09  
+📌 Portfolio: https://simrandev.vercel.app  
+📌 Email: simrandas2022@gmail.com
