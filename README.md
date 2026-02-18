@@ -62,8 +62,10 @@ I enjoy building analytical and deployable solutions that support smarter decisi
 🛠 Tools Used: Google BigQuery, SQL  
 
 ---
+
 ### 📈 Stock Price Forecasting Using Hybrid Deep Learning Models 
 📈 Supports trend forecasting and financial decision analysis.
+
 ---
 
 ### 🧬 Cervical Cancer Risk Prediction API 
