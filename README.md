@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simran Das</h1>
-<h3 align="center">🚀 Business • Product • Data | Founder’s Office @HireZapp | B2B SaaS</h3>
+<h3 align="center">🚀 Business • Product • Data </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/simran-das09">
